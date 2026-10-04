@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this guide or its data, please cite it as below."
+title: "Zinn Hub Reviews: A Buyer's Guide to Sources, Ratings and Protection"
+type: dataset
+authors:
+  - name: "Zinn Hub Reviews (Zinn Digital Ltd)"
+    website: "https://zinnhubreviews.com/"
+url: "https://zinnhubreviews.com/"
+repository-code: "https://github.com/zinn-hub-reviews/zinn-hub-reviews-guide"
+license: CC-BY-4.0
+date-released: "2026-10-04"
+keywords:
+  - Zinn Hub
+  - Zinn Hub reviews
+  - freelance marketplace
+  - online reviews
+  - buyer protection
